@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ulxe3r.mariobertti.space/sitemap.xml
